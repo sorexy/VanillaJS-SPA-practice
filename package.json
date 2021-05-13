@@ -1,0 +1,24 @@
+{
+  "name": "VanillaJS-SPA-practice",
+  "version": "1.0.0",
+  "description": "VanillaJS SPA Practice This is just a simple Single Paged Application to practice SPA routing in pure JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync --start --server --single --directory --files '**/*'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorexy/VanillaJS-SPA-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sorexy/VanillaJS-SPA-practice/issues"
+  },
+  "homepage": "https://github.com/sorexy/VanillaJS-SPA-practice#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.14"
+  }
+}
